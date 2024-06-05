@@ -1,4 +1,5 @@
 #import "RNAppAuth.h"
+#define _APPAUTHTRACE 1
 #if __has_include(<AppAuth/AppAuth.h>)
 #import <AppAuth/AppAuth.h>
 #else
